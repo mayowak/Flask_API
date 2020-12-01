@@ -1,2 +1,2 @@
 # Flask_API
-This repo contains basics of Building API
+This repo contains basis of Building API
